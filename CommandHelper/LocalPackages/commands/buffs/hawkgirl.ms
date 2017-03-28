@@ -14,6 +14,8 @@
             'powers': array(
                 "/buff",
                 "/jump 0-3",
+                "/carryplayer",
+                "/dismountplayer",
                 "/fly"
             ),
             'buffs': array(
